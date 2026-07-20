@@ -5,6 +5,26 @@
     "path": "pages/Ahmad_Irsheid.html"
   },
   {
+    "file": "ahmad-kawkab.html",
+    "name": "Ahmad Kawkab",
+    "path": "pages/ahmad-kawkab.html"
+  },
+  {
+    "file": "Alaa-Mohamad.html",
+    "name": "Alaa Mohamad",
+    "path": "pages/Alaa-Mohamad.html"
+  },
+  {
+    "file": "ali_ali.html",
+    "name": "Ali Ali",
+    "path": "pages/ali_ali.html"
+  },
+  {
+    "file": "Charbel-Jreij.html",
+    "name": "Charbel Jreij",
+    "path": "pages/Charbel-Jreij.html"
+  },
+  {
     "file": "Halima-ElHajj.html",
     "name": "Halima ElHajj",
     "path": "pages/Halima-ElHajj.html"
@@ -20,6 +40,11 @@
     "path": "pages/Maha-AbiMosleh.html"
   },
   {
+    "file": "Makram-Ghraizi.html",
+    "name": "Makram Ghraizi",
+    "path": "pages/Makram-Ghraizi.html"
+  },
+  {
     "file": "malak-darwish.html",
     "name": "Malak Darwish",
     "path": "pages/malak-darwish.html"
@@ -33,6 +58,11 @@
     "file": "Muhammad-AlNatour.html",
     "name": "Muhammad AlNatour",
     "path": "pages/Muhammad-AlNatour.html"
+  },
+  {
+    "file": "Rabih-Kiwan.html",
+    "name": "Rabih Kiwan",
+    "path": "pages/Rabih-Kiwan.html"
   },
   {
     "file": "Razan-Sawaftah.html",
